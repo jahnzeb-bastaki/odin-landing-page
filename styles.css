@@ -190,8 +190,12 @@ header{
 
 footer{
   background-color: #1f2937;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 footer p{
   color: #e5e7eb;
+  padding: 3em 13em;
 }
